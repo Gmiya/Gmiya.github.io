@@ -13,7 +13,8 @@ $('.js-7').attr('src', (dpi>1) ? 'images/group-8-708.png' : 'images/group-8-354.
 $('.js-8').attr('src', (dpi>1) ? 'images/group-2-762.png' : 'images/group-2-381.png');
 $('.js-9').attr('src', (dpi>1) ? 'images/group-7-1104.png' : 'images/group-7-552.png');
 $('.js-10').attr('src', (dpi>1) ? 'images/group-6-1008.png' : 'images/group-6-504.png');
-$('.js-11').attr('src', (dpi>1) ? 'images/group-5-814.png' : 'images/group-5-407.png');};
+$('.js-11').attr('src', (dpi>1) ? 'images/group-5-814.png' : 'images/group-5-407.png');
+$('.js-12').attr('src', (dpi>1) ? 'images/rectangle-4-1920.png' : 'images/rectangle-4-960.png');};
 if(!window.HTMLPictureElement){r();}
 
 });
